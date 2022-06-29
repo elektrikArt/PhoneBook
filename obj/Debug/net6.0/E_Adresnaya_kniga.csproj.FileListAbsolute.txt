@@ -1,0 +1,15 @@
+C:\Users\musli\dev\c#\route256\E_Adresnaya_kniga\bin\Debug\net6.0\E_Adresnaya_kniga.exe
+C:\Users\musli\dev\c#\route256\E_Adresnaya_kniga\bin\Debug\net6.0\E_Adresnaya_kniga.deps.json
+C:\Users\musli\dev\c#\route256\E_Adresnaya_kniga\bin\Debug\net6.0\E_Adresnaya_kniga.runtimeconfig.json
+C:\Users\musli\dev\c#\route256\E_Adresnaya_kniga\bin\Debug\net6.0\E_Adresnaya_kniga.dll
+C:\Users\musli\dev\c#\route256\E_Adresnaya_kniga\bin\Debug\net6.0\E_Adresnaya_kniga.pdb
+C:\Users\musli\dev\c#\route256\E_Adresnaya_kniga\obj\Debug\net6.0\E_Adresnaya_kniga.csproj.AssemblyReference.cache
+C:\Users\musli\dev\c#\route256\E_Adresnaya_kniga\obj\Debug\net6.0\E_Adresnaya_kniga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musli\dev\c#\route256\E_Adresnaya_kniga\obj\Debug\net6.0\E_Adresnaya_kniga.AssemblyInfoInputs.cache
+C:\Users\musli\dev\c#\route256\E_Adresnaya_kniga\obj\Debug\net6.0\E_Adresnaya_kniga.AssemblyInfo.cs
+C:\Users\musli\dev\c#\route256\E_Adresnaya_kniga\obj\Debug\net6.0\E_Adresnaya_kniga.csproj.CoreCompileInputs.cache
+C:\Users\musli\dev\c#\route256\E_Adresnaya_kniga\obj\Debug\net6.0\E_Adresnaya_kniga.dll
+C:\Users\musli\dev\c#\route256\E_Adresnaya_kniga\obj\Debug\net6.0\refint\E_Adresnaya_kniga.dll
+C:\Users\musli\dev\c#\route256\E_Adresnaya_kniga\obj\Debug\net6.0\E_Adresnaya_kniga.pdb
+C:\Users\musli\dev\c#\route256\E_Adresnaya_kniga\obj\Debug\net6.0\E_Adresnaya_kniga.genruntimeconfig.cache
+C:\Users\musli\dev\c#\route256\E_Adresnaya_kniga\obj\Debug\net6.0\ref\E_Adresnaya_kniga.dll
